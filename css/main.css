@@ -3,10 +3,9 @@
     padding: 0;
 }
 
-.background-header{
-    background-color: #2EC4B6;
-    width: 100%;
+#background_entete{
     height: 70vh;
+    width: 100%;
 }
 
 .title{
