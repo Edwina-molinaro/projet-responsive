@@ -1,3 +1,4 @@
+
 *, body{
     margin: 0;
     padding: 0;
@@ -35,15 +36,16 @@
     background-color: #818881;
     margin: 5vh;
     padding: 1vh;
-    font-size: 50px;
+
     box-shadow: grey 3px 3px 3px;
     text-align: center;
 
 }
 
-.w-30{
+.box{
     width:100%;
     border-radius: 5px 5px;
+    font-size: 8vh;
 
 
 }
